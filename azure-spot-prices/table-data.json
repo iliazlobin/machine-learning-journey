@@ -1,0 +1,195 @@
+[
+  ["SKU", "Retail Price", "Unit of Measure", "Region", "Meter", "Product Name"],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.40403,
+    "1 Hour",
+    "eastus",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.809852,
+    "1 Hour",
+    "francecentral",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.385665,
+    "1 Hour",
+    "westus3",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.564224,
+    "1 Hour",
+    "canadacentral",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.5921,
+    "1 Hour",
+    "southeastasia",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.84032,
+    "1 Hour",
+    "switzerlandnorth",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.61183,
+    "1 Hour",
+    "northeurope",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.969325,
+    "1 Hour",
+    "germanywestcentral",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.558421,
+    "1 Hour",
+    "centralindia",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.889736,
+    "1 Hour",
+    "uksouth",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.940288,
+    "1 Hour",
+    "brazilsouth",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.694756,
+    "1 Hour",
+    "koreacentral",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.5312,
+    "1 Hour",
+    "centralus",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    1.056355,
+    "1 Hour",
+    "westus2",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.48323,
+    "1 Hour",
+    "italynorth",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    1.3125,
+    "1 Hour",
+    "polandcentral",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.591113,
+    "1 Hour",
+    "northcentralus",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.881887,
+    "1 Hour",
+    "eastus2",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.994632,
+    "1 Hour",
+    "swedencentral",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.473419,
+    "1 Hour",
+    "southcentralus",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.52525,
+    "1 Hour",
+    "westus",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.568284,
+    "1 Hour",
+    "australiaeast",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    1.208075,
+    "1 Hour",
+    "westeurope",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ],
+  [
+    "Standard_NC24ads_A100_v4",
+    0.5326,
+    "1 Hour",
+    "japaneast",
+    "NC24ads_A100_v4 Spot",
+    "NCads A100 v4 Series Linux"
+  ]
+]
